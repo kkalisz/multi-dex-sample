@@ -1,0 +1,3 @@
+target/sources/pl/kalisz.kamil/abc/acmjf.class
+target/sources/pl/kalisz.kamil/abc/afbmgg.class
+target/sources/pl/kalisz.kamil/abc/akcldx.class
